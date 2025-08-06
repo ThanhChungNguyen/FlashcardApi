@@ -31,3 +31,4 @@ C:\Users\Chung\Projects\FlashCard\FlashcardApi\obj\Debug\net8.0\refint\Flashcard
 C:\Users\Chung\Projects\FlashCard\FlashcardApi\obj\Debug\net8.0\FlashcardApi.pdb
 C:\Users\Chung\Projects\FlashCard\FlashcardApi\obj\Debug\net8.0\FlashcardApi.genruntimeconfig.cache
 C:\Users\Chung\Projects\FlashCard\FlashcardApi\obj\Debug\net8.0\ref\FlashcardApi.dll
+C:\Users\Chung\Projects\FlashCard\FlashcardApi\obj\Debug\net8.0\FlashcardApi.sourcelink.json
